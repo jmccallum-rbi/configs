@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "workspace.library": [
+    "c:\\Users\\notmango\\.vscode\\extensions\\overextended.cfxlua-vscode-1.7.22\\plugin\\library\\natives\\CFX-NATIVE",
+    "c:\\Users\\notmango\\.vscode\\extensions\\overextended.cfxlua-vscode-1.7.22\\plugin\\library\\natives\\GTAV"
+  ],
+  "runtime.version": "Lua 5.4",
+  "hint.enable": true,
+  "workspace.preloadFileSize": 500,
+  "diagnostics.disable": [
+    "redundant-parameter",
+    "malformed-number",
+    "miss-loop-max",
+    "param-type-mismatch",
+    "undefined-global",
+    "missing-parameter",
+    "redefined-local",
+    "undefined-field",
+    "miss-symbol",
+    "lowercase-global",
+    "undefined-doc-name",
+    "missing-return",
+    "deprecated",
+    "missing-return-value",
+    "duplicate-index",
+    "luadoc-miss-type-name",
+    "unbalanced-assignments",
+    "redundant-value",
+    "undefined-doc-param",
+    "duplicate-doc-field",
+    "missing-fields",
+    "duplicate-doc-alias",
+    "ambiguity-1",
+    "redundant-return-value",
+    "assign-type-mismatch",
+    "need-check-nil",
+    "cast-local-type",
+    "duplicate-set-field",
+    "unused-local"
+  ]
+}
